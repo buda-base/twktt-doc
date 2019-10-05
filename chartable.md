@@ -104,7 +104,7 @@ Exemplified on អ / ອ / อ:
 | `:`    | អៈ     |      |      |  |  | 
 | `ṃ`    | អំ     |      |      |  |  | 
 | `ḥ`    | អះ     |      |      |  |  | 
-| `ă` (how does it translate to other letter?)   | អ័     |      |      |  |  | 
+| `ă` (how does it translate to other letters?)   | អ័     |      |      |  |  | 
 | `'` (warning: we already use `'` for អ?)   | អ់     |      |      |  |  | 
 | `"`    | អ៉    |      |      |  |  | 
 | `ŕ`    | អ៌     |      |      |  |  | 
@@ -114,7 +114,7 @@ Exemplified on អ / ອ / อ:
 | `₂`   |      |      |      |  |  | 
 | `₃`   |      |      |      |  |  | 
 | `₄`   | អ៎     |      |      |  |  |
-| `á` (how does it translate to other letter?)    | អ៏     |      |      |  |  |  
+| `á` (how does it translate to other letters?)    | អ៏     |      |      |  |  |  
 
 
 
@@ -133,7 +133,7 @@ A space in twktt represents a word break, which is not explicit in Khmer script;
 | `-`    | (implicit syllable break)     |      |      |  |  | 
 | (space)    | (implicit word break)     |      |      |  |  | 
 | ?    | ៙     |      |      |  |  | 
-| ?    | ៕     |      |      |  |  | 
+| ?    | ៗ     |      |      |  |  | 
 | ?    | ៖     |      |      |  |  | 
 
 

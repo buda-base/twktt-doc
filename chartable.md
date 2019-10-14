@@ -47,14 +47,14 @@ This table lists the main character mapping, for more details and complex cases,
 | `ṣa`    | ឞ     |      | ษ     |  |  | 
 | `sa`    | ស     | ສ     | ส     |  |  | 
 | `ha`    | ហ     | ຫ     | ห     |  |  | 
-| `ḷa` (this is a little surprising, maybe we should use `ḷa` for ឭ instead?)    | ឡ     |      | ฬ     |  |  | 
+| `ḷa` (ḷ followed by vowel)    | ឡ     |      | ฬ     |  |  | 
 | `h́a`    |      | ຮ     | ฮ     |  |  |
 
 ## Independend vowels
 
 | twktt | Khmer | Lao   | Thai  | Tham  | Khom  |
 | :---: | :---: | :---: | :---: | :---: | :---: | 
-| `'a`    | អ     | ອ     | อ     |  |  | 
+| `'a`    | អ     | ອ     | อ     |  |  |
 | `aa`    |      | ອອ     | ออ     |  |  | 
 | `I`    | ឥ     |      |      |  |  | 
 | `Ī`    | ឦ    |      |      |  |  | 
@@ -63,13 +63,14 @@ This table lists the main character mapping, for more details and complex cases,
 | `û`    | ឨ     |      |      |  |  | 
 | `ṛ`    | ឫ     |      | ฤ     |  |  | 
 | `ṝ`    | ឬ     |      | ฤๅ     |  |  | 
-| `Ḷ` (?)   | ឭ     |      |  ฦ    |  |  | 
-| `Ḹ` (?)    | ឮ     |      | ฦๅ     |  |  | 
+| `ḷ` (not followed by vowel)   | ឭ     |      |  ฦ    |  |  | 
+| `ḹ`    | ឮ     |      | ฦๅ     |  |  | 
 | `E`    | ឯ     |      |      |  |  | 
 | `Ai` (?)    | ព     |      |      |  |  | 
 | `O`    | ឱ    |      |      |  |  | 
 | `Au`    | ឳ     |      |      |  |  | 
 | `Uv` (?)    | ឪ     |      |      |  |  |
+| `Ụ` or `Ọ` (?)    | ឲ     |      |      |  |  |
 
 ## Dependent vowels
 
@@ -104,7 +105,8 @@ Exemplified on អ / ອ / อ:
 | `:`    | អៈ     |      |      |  |  | 
 | `ṃ`    | អំ     |      |      |  |  | 
 | `ḥ`    | អះ     |      |      |  |  | 
-| `ă` (how does it translate to other letters?)   | អ័     |      |      |  |  | 
+| `ă`   | អ័     |      |      |  |  | 
+| `ā̆`   | អា័ (or អ័ា?)     |      |      |  |  | 
 | `'` (warning: we already use `'` for អ?)   | អ់     |      |      |  |  | 
 | `"`    | អ៉    |      |      |  |  | 
 | `ŕ`    | អ៌     |      |      |  |  | 
@@ -114,7 +116,7 @@ Exemplified on អ / ອ / อ:
 | `₂`   |      |      |      |  |  | 
 | `₃`   |      |      |      |  |  | 
 | `₄`   | អ៎     |      |      |  |  |
-| `á` (how does it translate to other letters?)    | អ៏     |      |      |  |  |  
+| `á` (not possible with other vowels)    | អ៏     |      |      |  |  |  
 
 
 

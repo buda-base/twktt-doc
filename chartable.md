@@ -131,7 +131,7 @@ A space in twktt represents a word break, which is not explicit in Khmer script;
 | `/`    |  ។    |      | ฯ     |  |  | 
 | `//`    |  ៕    |      |      |  |  | 
 | `%`    | ៚     |      | ៚     |  |  | 
-| `|`    | (space)     |      |      |  |  | 
+| `\|`    | (space)     |      |      |  |  | 
 | `-`    | (implicit syllable break)     |      |      |  |  | 
 | (space)    | (implicit word break)     |      |      |  |  | 
 | ?    | ៙     |      |      |  |  | 
